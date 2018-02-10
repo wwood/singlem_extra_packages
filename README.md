@@ -1,6 +1,6 @@
-This repository contains auxiliary gene packages for (SingleM)[https://github.com/wwood/singlem].
+This repository contains auxiliary gene packages for [SingleM](https://github.com/wwood/singlem), that are not included in the main distribution for various reasons.
 
-First download them from this reposotory and extract package(s) of interest:
+First download them from this repository and extract those package(s) of interest:
 ```
 git clone https://github.com/wwood/singlem_extra_packages.git
 cd singlem_extra_packages/release1
